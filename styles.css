@@ -35,6 +35,7 @@ body {
     position: relative;
 }
 
+/* this is what javascript is grabbing to flip the card when clicked */
 .card-inner.is-flipped{
     transform: rotateY(180deg);
 }
